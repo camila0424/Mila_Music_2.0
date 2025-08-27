@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Hero() {
     return (
-        <section className="relative w-full h-screen overflow-hidden">
+        <section id="hero" className="relative w-full h-screen overflow-hidden">
             {/* 🎥 Video de fondo */}
             <video
                 autoPlay
