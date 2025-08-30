@@ -68,7 +68,7 @@ const Header = (): JSX.Element => {
 
             {/* Botón hamburguesa Mobile */}
             <button
-                className="text-[1.8rem] cursor-pointer text-fuchsia-900 p-2 md:hidden ml-auto"
+                className="text-xl cursor-pointer text-fuchsia-900 p-2 md:hidden ml-auto"
                 onClick={(e) => {
                     e.stopPropagation();
                     setMenuOpen(!menuOpen);
@@ -85,7 +85,7 @@ const Header = (): JSX.Element => {
                             <RouterLink
                                 key={item.name}
                                 to={item.route}
-                                className="text-black font-bold px-4 py-2 hover:bg-purple-100 rounded text-center"
+                                className="text-fuchsia-800  px-4 py-2 hover:bg-purple-100 rounded text-center"
                                 onClick={() => setMenuOpen(false)}
                             >
                                 {item.name}
@@ -94,7 +94,7 @@ const Header = (): JSX.Element => {
                             <button
                                 key={item.name}
                                 onClick={() => smoothScroll(item.id)}
-                                className="text-black font-bold px-4 py-2 hover:bg-purple-100 rounded text-center"
+                                className="text-fuchsia-900  px-4 py-2 hover:bg-purple-100 rounded text-center"
                             >
                                 {item.name}
                             </button>

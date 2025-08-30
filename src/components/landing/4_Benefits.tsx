@@ -43,19 +43,20 @@ const benefitsData: Benefit[] = [
 const Benefits: React.FC = () => {
     return (
         <div className="flex flex-col  items-center justify-center w-full my-5 px-10 md:h-screen">
-            <section className="flex flex-col items-center m-8 md:grid md:grid-cols-2 md:gap-5 md:ml-40">
+            <section className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-5xl mx-auto">
                 {benefitsData.map((benefit, index) => (
-                    <article key={index} className="mb-8">
+                    <article key={index} className="text-left">
                         <img src={benefit.img} alt={benefit.alt} className="w-12 h-auto" />
-                        <h3 className="mt-2 mb-2  text-fuchsia-800  font-semibold text-xl text-left">
+                        <h3 className="mt-2 mb-2 text-fuchsia-800 font-semibold text-xl">
                             {benefit.title}
                         </h3>
-                        <p className="mb-2   text-fuchsia-800 opacity-40  font-normal text-base line-clamp-5 overflow-hidden">
+                        <p className="mb-2 text-fuchsia-800 opacity-40 font-normal text-base line-clamp-5 overflow-hidden">
                             {benefit.description}
                         </p>
                     </article>
                 ))}
             </section>
+
             <motion.div
                 animate={{ scale: [1, 1.01, 1] }}
                 transition={{ duration: 1, repeat: Infinity, ease: "easeInOut" }}
@@ -63,7 +64,7 @@ const Benefits: React.FC = () => {
             >
                 <Link
                     to="/teacher-list"
-                    className=" bg-fuchsia-800 text-white font-arsenal font-bold text-xl py-4 px-4 rounded-2xl block"
+                    className=" bg-fuchsia-800 text-white font-arsenal font-bold text-xl mt-6 py-3 px-4 rounded-2xl block"
                 >
                     Reserva tu prueba Gratuita
                 </Link>

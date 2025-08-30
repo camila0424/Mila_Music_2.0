@@ -25,12 +25,12 @@ const HowItWorks: React.FC = () => {
     return (
         <section
             id="how_it_works"
-            // 👇 Ajuste: cada sección ocupa al menos 100vh y tiene padding-top para compensar el header fijo
+
             className="flex flex-col items-center px-4 bg-fuchsia-200 min-h-screen 
-                       pt-20 md:pt-20 "
+                       pt-20 md:pt-23 "
         >
             {/* Cajón morado */}
-            <div className="bg-fuchsia-900 rounded-2xl w-full max-w-2xl px-2 py-4 text-center mb-8">
+            <div className="bg-fuchsia-900 rounded-2xl w-full max-w-2xl px-2 py-3 text-center mb-8">
                 <h3 className="text-white font-bold text-xl">
                     ¿Cómo funciona Mila Music?
                 </h3>
@@ -59,14 +59,14 @@ const HowItWorks: React.FC = () => {
             </ul>
 
             {/* Imagen final */}
-            <div className="flex flex-col items-center mt-10 text-center">
-                <img src={okay} alt="imagen de okay" className="w-22 h-auto mt-8 " />
-                <h3 className="text-fuchsia-900 font-bold text-2xl mt-5 mb-4">
+            <div className="flex flex-col items-center my-1 text-center">
+                <img src={okay} alt="imagen de okay" className="w-32 h-auto " />
+                <h3 className="text-fuchsia-900 font-bold text-2xl mt-1 mb-2">
                     Nos preocupamos por ti.
                 </h3>
                 <p className="text-fuchsia-800 text-base font-medium max-w-2xl">
                     Por eso, si después de tu primera clase no te convence tu profesor/a,
-                    te ayudamos a encontrar otro.
+                    te ayudamos a encontrar otro/a.
                 </p>
             </div>
         </section>
