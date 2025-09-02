@@ -5,7 +5,7 @@ import twitter from "../../images/landing/redes-sociales/twitter.png";
 
 const Footer: React.FC = () => {
     return (
-        <footer className="bg-fuchsia-900 text-white  font-medium text-base w-full flex flex-col items-center text-center gap-2 p-1 md:flex-row md:justify-around md:text-lg md:p-8">
+        <footer className="bg-fuchsia-900 text-white  font-medium text-base w-full flex flex-col  items-center text-center gap-2 p-7 md:flex-row md:justify-around md:text-lg md:p-8">
 
             {/* Nuestra empresa */}
             <section className="border-b-2 border-white w-full md:w-auto md:border-b-0 md:px-4 pb-5 md:pb-0">
@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
             </section>
 
             {/* Redes sociales */}
-            <section className="mt-4 mb-10 flex gap-14 md:mt-0 md:mb-0">
+            <section className="mt-4 mb-3 flex gap-14 md:mt-0 md:mb-0">
                 <a href="https://twitter.com/?lang=es" target="_blank" rel="noopener noreferrer">
                     <img src={twitter} alt="icono de twitter" className="w-10 hover:brightness-125 transition" />
                 </a>

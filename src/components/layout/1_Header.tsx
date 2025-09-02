@@ -40,7 +40,9 @@ const Header = (): JSX.Element => {
                 onClick={() => smoothScroll("hero")}
                 className="flex-shrink-0 cursor-pointer"
             >
-                <img src={Logo} alt="Logo de Mila Music" className="h-18 md:h-20 xl:h-22" />
+                <RouterLink to="/">
+                    <img src={Logo} alt="Logo de Mila Music" className="h-18 md:h-20 xl:h-22" />
+                </RouterLink>
             </div>
 
             {/* Menú Desktop */}

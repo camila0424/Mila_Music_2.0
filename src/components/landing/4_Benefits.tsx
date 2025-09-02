@@ -42,7 +42,7 @@ const benefitsData: Benefit[] = [
 
 const Benefits: React.FC = () => {
     return (
-        <div className="flex flex-col  items-center justify-center w-full my-5 px-10 md:h-screen">
+        <div className="flex flex-col  items-center justify-center w-full  px-10 md:h-screen">
             <section className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-5xl mx-auto">
                 {benefitsData.map((benefit, index) => (
                     <article key={index} className="text-left">
@@ -60,7 +60,7 @@ const Benefits: React.FC = () => {
             <motion.div
                 animate={{ scale: [1, 1.01, 1] }}
                 transition={{ duration: 1, repeat: Infinity, ease: "easeInOut" }}
-                className="mt-0 mb-4 w-90 text-center"
+                className="mt-0 mb-10 w-90 text-center"
             >
                 <Link
                     to="/teacher-list"

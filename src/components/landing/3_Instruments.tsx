@@ -20,9 +20,9 @@ const instruments: Instrument[] = [
 
 const Instruments: React.FC = () => {
     return (
-        <section className="flex flex-col items-center justify-center w-full px-2 md:h-screen">
+        <section className="flex flex-col items-center justify-center w-full px-2 mb-10 md:h-5/6 md:pt-6">
             {/* Título */}
-            <h3 className="text-fuchsia-800  font-extrabold text-3xl md:text-3xl text-center my-3 md:mb-10 max-w-xs md:max-w-md">
+            <h3 className="text-fuchsia-800  font-extrabold text-3xl md:text-3xl text-center my-3 md:mb-15 max-w-xs md:max-w-md">
                 Encuentra tu instrumento
             </h3>
 
@@ -53,7 +53,7 @@ const Instruments: React.FC = () => {
             <motion.div
                 animate={{ scale: [1, 1.01, 1] }}
                 transition={{ duration: 1, repeat: Infinity, ease: "easeInOut" }}
-                className="mt-10 mb-10 w-90 text-center"
+                className="mt-12  w-90 text-center"
             >
                 <Link
                     to="/teacher-list"

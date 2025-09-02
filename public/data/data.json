@@ -1,0 +1,111 @@
+[
+  {
+    "id": "1",
+    "name": "Helena B.",
+    "photo": "/images/profesores/Helena.jpg",
+    "number_of_classes": "11 ",
+    "instrument": "Guitarra",
+    "language": "Español",
+    "ad_title": "Chica con 15 años de experiencia da clases de guitarra y canto a domicilio en Madrid",
+    "ad_desc": "Tengo el título de Estudios Profesionales en la Escuela de Música    Creativa, Madrid. Estudié 6 años de teoría, solfeo y armonía en 2 conservatorios en Venezuela (Escuela de Música Prudencio Esáa y Escuela de Música Pedro Nolasco Colón), 4 años de guitarra popular y 2 de guitarra clásica, 3 de mandolina y 1 de canto lírico.",
+    "class_desc": "Soy guitarrista, cantante y mandolinista con 15 años de experiencia en el mundo de la música. Mi método de enseñanza varía dependiendo del alumno. Me adapto a los gustos musicales y al tiempo que el alumno tiene para dedicarle al estudio.En las clases de guitarra enseño los acordes, rasgueos, punteos (en la parte popular), escalas, arpegios, improvisación y solos (en la parte de jazz). Podemos tocar las canciones que prefiera el alumno junto con otras que son parte del repertorio típico de guitarra para agilizar la mano y aprender más rápido.En las clases de canto enseño ejercicios de respiración, vocalización y proyección. También utilizo las canciones que prefiera el alumno y se trabaja sobre eso hasta que el canto quede impecable. También tengo una modalidad en la que enseño a cantar y a tocar guitarra al mismo tiempo para los que están comenzando.",
+    "cost_per_hour": "30"
+  },
+  {
+    "id": "2",
+    "name": "Hector R.",
+    "photo": "/images/profesores/Hector.jpg",
+    "number_of_classes": "22 ",
+    "instrument": "Guitarra",
+    "language": "Español",
+    "ad_title": "Clases de Guitarra Clásica, o diversos estilos: Rock, Pop, Jazz y otros géneros. Todos los niveles (de básico a avanzado). Técnica, armonía aplicada, repertorio, composición.",
+    "ad_desc": "He estudiado y me he egresado en el Conservatorio Provincial de Córdoba Félix T. Garzón, con especialización en guitarra clásica. Paralelamente he cursado toda la carrera de Licenciatura en Composición Musical en la Universidad Nacional de Córdoba. Me he formado en canto lírico y guitarra clásica tomando clases particulares con destacados/as maestros/as de Argentina y Latinoamérica. He participado por dos años consecutivos en el Festival de Música de Santa Catarina (FEMUSC), Brasil, en calidad de alumno. He trabajado como docente enseñando en diversas instituciones de mi ciudad (Córdoba, Argentina), como compositor de música para teatro, danza/teatro y cine, y he dado numerosos conciertos, recibiendo diversas menciones especiales y premios. Además, he formado parte de diversas bandas, y actualmente tengo un proyecto solista de canciones influenciadas por el Jazz, la música clásica, y el Rock.",
+    "class_desc": "Luego de muchos años de impartir clases y de tener cientos de alumnos, he desarrollado un método de manera online en el cual los alumnos aprenden de forma didáctica y divertida, conociendo la estructura de la música y la guitarra, o profundizándolas desde la primera clase. Las clases abarcan los siguientes aspectos. Sin embargo, tú puedes elegir en qué deseas hacer más énfasis; - Repertorio. (tú eliges las canciones) - Escalas y Modos griegos. - Armonía y melodía. - Acompañamiento. (Acompáñate para cantar) - Improvisación. - Solfeo. - Composición. Las clases online permiten que nos conectemos desde y hacia todas partes del mundo. Es así que tengo la suerte de tener alumnos en España, Alemania, Inglaterra, Estados Unidos, Chile, México, Uruguay, entre otros. Sin mencionar que contamos con varias herramientas gracias a la tecnología, como utilizar material interactivo en tiempo real o grabar la clase para que puedas volver a practicar cuando lo desees. Aquí abajo he adjuntado un video donde interpretamos una canción, te invito a verlo. Espero tu mensaje para coordinar la primera clase gratuita, cualquier consulta es bienvenida ¡Saludos!",
+    "cost_per_hour": "25"
+  },
+
+  {
+    "id": "3",
+    "name": "Roberto M.",
+    "photo": "/images/profesores/Roberto.jpg",
+    "number_of_classes": "15 ",
+    "instrument": "Guitarra",
+    "language": "Español, English",
+    "ad_title": "Clases de Guitarra Moderna y Clásica. Online y presenciales en mi estudio en Valencia. Castellano - English.",
+    "ad_desc": "He trabajado como profesor de guitarra y lenguaje musical durante 20 años, en Italia, dando clases particulares y en 3 escuelas privadas de música. He tenido el placer de dar clase a estudiantes de todas las edades: jóvenes empezando a tocar la guitarra (y por esto siempre he tenido en gran consideración el correcto planteamiento del estudio musical), adultos cultivando la pasión por la música y estudiantes comprometidos en desarrollar competencias profesionales. Mi formación es muy amplia, incluyendo la licenciatura en guitarra clásica, años de clases particulares en guitarra rock y jazz, una licenciatura en Filosofía (con especialización en pedagogía), un diploma en composición clásica y el máster en Scoring for Film, Television and Videogames en el Berklee College of Music en Valencia. Además, viviendo en España desde hace 6 años y estudiando regularmente en la Escuela Oficial de Idiomas, he ganado una competencia lingüística más que suficiente para dar clases de manera eficaz.",
+    "class_desc": "¿Qué vamos a aprender? Mis clases están pensadas para alumnos de diferentes características: desde quienes quieran profundizar seriamente en el conocimiento del instrumento, estudiando técnica, armonía, teoría, lectura de manera profesional, hasta quienes quieran avanzar en el conocimiento del instrumento al que dedican su tiempo libre. Presto especial atención a quien empieza, ¡independientemente de la edad!, cuidando la impostación correcta del instrumento, sea la guitarra eléctrica, acústica o la guitarra clásica. ¿Y… la didáctica online? ¡Sí, se puede! Es suficiente una conexión de buena calidad y una webcam con un buen micro (te puedo ayudar a elegir una, si lo necesitas). A lo largo de las clases voy a compartir material y ejercicios por correo electrónico y podrás grabarlos y enviarme los vídeos para que los pueda revisar antes de la clase. La pandemia nos ha empujado a buscar soluciones eficientes para seguir viviendo y, por suerte, la didáctica musical online funciona. Y… si quieres conocer más a fondo la programación y cómo la podemos adaptar a tus necesidades, escríbeme y lo hablamos. ",
+    "cost_per_hour": "20"
+  },
+  {
+    "id": "4",
+    "name": "Victor S.",
+    "photo": "/images/profesores/Victor.jpg",
+    "number_of_classes": "22 ",
+    "instrument": "Trompeta",
+    "language": "Español",
+    "ad_title": "Profesor Titulado en Real Conservatorio Superior de Musica de Madrid. Clases de Trompeta para todos los niveles. ¡Aprende a tocar tus piezas favoritas! Prepara pruebas a conservatorio o disfruta.",
+    "ad_desc": "Soy un chico joven con experiencia dando clase desde hace 6 años. Tengo muchas ganas de enseñar, y a su vez, aprender dando las clases basadas en técnicas de trabajo en el canto en el aire y en la relajación.Abierto, carismático y cercano.¡Contáctame!",
+    "class_desc": "Llevo muchos años enseñando a tocar la trompeta y para mí lo más importante es disfrutar y evadirse en nuestra clase del ajetreo del día a día.Mi método de aprendizaje se basa en aire + canto para tocar el instrumento, con la relación y mediante técnicas con el método Mindfulness, como catalizar tus emociones, parecer hacerlo muy fácil cuando no lo es. Cuando está en paz tu cuerpo junto con tu mente puedes hacer grandes cosas, una de ellas es disfrutar y hacer disfrutar a todas las personas con la trompeta. Parece que solo es tocar la trompeta, pero no, en nuestra clase abordaremos muchas más cosas para tocar que te pueden ayudar en tu día a día.Ofrezco: • Plan de estudio personalizado.• Desarrollo de la técnica (Respiración, Boquilla, Canto, aire, sonido)",
+    "cost_per_hour": "35"
+  },
+  {
+    "id": "5",
+    "name": "Victoria S.",
+    "photo": "/images/profesores/Victoria.jpg",
+    "number_of_classes": "8 ",
+    "instrument": "Clarinete",
+    "language": "Español, Francés",
+    "ad_title": "Clases de Clarinete para todos los niveles y edades, Online o Presencial en Madrid",
+    "ad_desc": "Clarinetista solista de la Philharmonisches Orchester der Stadt Ulm, Alemania. Formada en la Escuela Superior de Música Reina Sofía, en el Centro Superior Katarina Gurska y en la Hochschule für Musik de Freiburg.Colabora regularmente con orquestas como la Deutsche Kammerphilharmonie Bremen, Stuttgarter Kammerorchester, Luxembourg Philharmonic, Staatskapelle Dresden, Philharmonisches Orchester Freiburg, Theater Pforzheim, Liceo de Barcelona, Orquesta Sinfónica de Tenerife o la Orquesta Sinfónica de Madrid, compartiendo escenario con músicos como Lisa Batiashvili, Krystian Zimerman o Christian Gerhaher y bajo la batuta de renombrados directores como Pavo Jarvi, Klaus Mäkelä, Christian Thielemann o Daniel Harding.",
+    "class_desc": "Mis clases están dirigidas a todos los niveles y edades. La motivación y la diversión, unidas a la disciplina y el trabajo, son los pilares fundamentales de mi enseñanza. Enfoco y adapto las clases de manera personalizada según los objetivos y metas de cada alumno, ofreciendo diferentes métodos y herramientas pedagógicas.Mi experiencia en la docencia es amplia, pues enseño oficialmente desde 2015. He sido profesora de clarinete en la Escuela Mago Suzuki, Escuela de Música Littenweiler y Escuela de Música Ebnet, en Alemania, además de tener una amplia experiencia en clases particulares, enseñando a alumnos desde los cinco hasta los sesenta y nueve años, comprendiendo todos los niveles.El formato Online lo utilizo desde 2019, funcionando con éxito siempre que se disponga de una buena conexión WiFi.",
+    "cost_per_hour": "30"
+  },
+  {
+    "id": "6",
+    "name": "Ricardo A.",
+    "photo": "/images/profesores/Ricardo.png",
+    "number_of_classes": "32 ",
+    "instrument": "Guitarra",
+    "language": "Español",
+    "ad_title": "Profesor de Guitarra, Clases Online a sólo 14,99. Llévate tu clase grabada. Guitarra clásica, acústica o eléctrica. Todos los estilos",
+    "ad_desc": "Profesor con más de 6 años de experiencia, impartiendo clases para todas las edades. Recibido de la carrera de música popular del Instituto Adolfo Ábalos con especialidad en guitarra. Tomé clases con grandes profesores de guitarra, canto y batería desde hace más de 9 años. Entre los referentes que formaron parte de mi enseñanza se destacan Jorge Armani (Guitarra), Mario Orbe (Guitarra), Julia Sanjurjo (Canto), Barbie Martínez (Canto), Javier Puyol (Batería). Estos grandes músicos de amplia trayectoria me han formado con aprendizajes muy valiosos, los cuales estoy dispuesto a compartirte. Cuento con mi propio Home Studio donde me dedico a realizar producciones musicales. Por este motivo, podemos aprender a utilizar programas de producción (DAW) tanto para tus proyectos personales como herramienta para grabar ejercicios que surgen de las clases. Soy el director de mi propia Academia de Música, una academia internacional que nuclea a los mejores profesores de distintas partes del mundo",
+    "class_desc": "Luego de muchos años de impartir clases y de tener cientos de alumnos, he desarrollado un método de manera online en el cual los alumnos aprenden de forma didáctica y divertida, conociendo la estructura de la música y la guitarra, o profundizándolas desde la primera clase. Las clases abarcan los siguientes aspectos. Sin embargo, tú puedes elegir en qué deseas hacer más énfasis; - Repertorio. (tú eliges las canciones) - Escalas y Modos griegos. - Armonía y melodía. - Acompañamiento. (Acompáñate para cantar) - Improvisación. - Solfeo. - Composición. Las clases online permiten que nos conectemos desde y hacia todas partes del mundo. Es así que tengo la suerte de tener alumnos en España, Alemania, Inglaterra, Estados Unidos, Chile, México, Uruguay, entre otros. Sin mencionar que contamos con varias herramientas gracias a la tecnología, como utilizar material interactivo en tiempo real o grabar la clase para que puedas volver a practicar cuando lo desees. Aquí abajo he adjuntado un video donde interpretamos una canción, te invito a verlo. Espero tu mensaje para coordinar la primera clase gratuita, cualquier consulta es bienvenida ¡Saludos!",
+    "cost_per_hour": "20"
+  },
+  {
+    "id": "7",
+    "name": "Camilo S.",
+    "photo": "/images/profesores/Camilo.jpg",
+    "number_of_classes": "20 ",
+    "instrument": "Saxofón",
+    "language": "Español, Inglés",
+    "ad_title": "(Si el alumno no entiende, la responsabilidad es del profesor, aprende saxofón sin esfuerzo más que dedicarle un poco de tiempo) Federico Carreras, Clases de saxofón en la ciudad de Barcelona",
+    "ad_desc": "Comencé a estudiar saxo a la edad de 7 años en un instituto de jazz de Necochea, Buenos Aires, Argentina. Luego me gradué de profesor de música, especializado en saxofón en el conservatorio de música clásica 'Gilardo Gilardi', La Plata, Buenos Aires, Argentina. Los últimos 6 años me he perfeccionado con profesores particulares de jazz, tales como Ricardo Cavalli y Guillermo Romero, en Buenos Aires, Argentina. A lo largo de mis 23 años de formación, he participado de diferentes agrupaciones entre ellas 2 orquestas de música clásica, 3 orquestas de jazz y 1 de música popular. Participé también de distintas formaciones, tocando el saxofón, el clarinete, cantando, como compositor y arreglador. Los últimos tres años impartí clases de ensamble de jazz, tanto en el instituto de música Lennon, La Plata, Buenos Aires, Argentina. Como también en el marco de la asociación de jazz La Plata.",
+    "class_desc": "Para cualquier edad y niveles. Nada es difícil si se aprende de forma adecuada. Se trabaja de forma personalizada para cada alumno y en base a los objetivos del mismo. Si una clase está bien dada, el contenido de la misma está muy por encima del valor de la clase. En mi caso, transcurridos 5 años desde la última clase con Ricardo Cavalli (Profesor de Argentina) aún sigo aprendiendo de sus enseñanzas. El valor de lo que uno puede ofrecer dando una clase es altísimo y estoy dispuesto a devolver lo que se me fue dado. '(...) Recomiendo escuchar al saxofonista antes de elegirlo como profesor (...)'. Mira mis videos en YouTube: (información oculta) Metodología para alumnos iniciales: Se desarrolla el sonido de forma práctica y efectiva, así como también, la afinación y el conocimiento de todas sus notas en sus distintas posiciones. El procedimiento está pensado para que en poco tiempo el alumno pueda disfrutar de tocar distintas melodías en su instrumento. Por otro lado se incorporará la lectura musical y el desarrollo de técnicas armónicas y rítmicas útiles en el campo de la improvisación. Metodología para alumnos avanzados: ¡A trabajar muy duro! ;) Educaremos el oído rítmico, armónico y melódico. ",
+    "cost_per_hour": "22"
+  },
+  {
+    "id": "8",
+    "name": "Valentina",
+    "photo": "/images/profesores/Valentina.jpg",
+    "number_of_classes": "30 ",
+    "instrument": "Canto",
+    "language": "Español",
+    "ad_title": "Profe de Canto para Todos los Niveles. Diagnóstico de la voz, Voz Mixta y Salud Vocal con LAX VOX. Interpretación & Estilo. Ciencia Vocal. Métodos de Voz Hablada para Docentes, Actores, Cos-Art. ONLINE",
+    "ad_desc": "Soy Maty Labrea: cantante, compositora y profesora de Técnica Vocal con más de 10 años de experiencia.Durante mis años como estudiante, me he formado en canto Moderno, Bel canto, Speech Level Singing, CVT, Estill Voice Craft con Mamen Márquez (OT 2017/23), ETVSO con el mundialmente conocido doctor en fonoaudiología y vocología Marco Guzmán, estudio de efectos vocales con Ariel Coehlo y Método Neira de salud vocal. Certificada Nivel 1 y Nivel 2 por la Academia internacional Modern Vocal Training (MVT), diseñado para instructores cualificados, proporciona una formación integral que abarca diversos métodos vocales de reconocimiento internacional tales como:- SLS (Speech Level Singing),- IVA (Institute for Vocal Advancement),- CVT (Complete Vocal Technique),- Estill Voice (Voice Craft).Además, tengo Máster en Trabajo Vocal en voz hablada para docentes, actores y Voz",
+    "class_desc": "¿Quieres mejorar tu técnica vocal y llevar tu canto al siguiente nivel? ¡Entonces estás en el lugar correcto! Ofrezco clases de Técnica Vocal con métodos modernos, como MVT, CVT, Speech Level Singing y Estill Voice, para ayudarte a alcanzar tus objetivos vocales. En mis clases, te enseñaré a cantar de manera saludable y eficiente, desarrollando tu voz de manera integral. Con mis métodos modernos, no solo mejorarás tu técnica vocal, sino también tu musicalidad y estilo personal. Como profesional certificada y experimentada, he ayudado a muchos estudiantes a alcanzar sus metas vocales, desde cantantes principiantes hasta artistas profesionales y en desarrollo. Además, mis clases son flexibles y personalizadas para adaptarse a tus necesidades y objetivos. Si estás buscando una manera efectiva de mejorar tu técnica vocal y llevar tu canto al siguiente nivel, no dudes en reservar una clase conmigo. ¡Juntos podemos hacer que tu voz brille! Contáctame y comienza a transformar tu voz hoy mismo. -------------------------------------------------------------Mi método de enseñanza está basado en la conjunción de los sistemas Belcanto (tradicional), Estill Voice, Speech Level Singing, método Neira de salud vocal, Técnicas Vocales Completa ",
+    "cost_per_hour": "50"
+  },
+  {
+    "id": "9",
+    "name": "Roger",
+    "photo": "/images/profesores/Roger.jpg",
+    "number_of_classes": "103 ",
+    "instrument": "Piano",
+    "language": "Español",
+    "ad_title": "Piano & Producción: del alma a la pantalla No solo toques… ¡comparte lo que llevas dentro! Tocar como eres, componer como sientes.",
+    "ad_desc": "Tengo experiencia, metodología técnica y talento. Y combino tres ecuaciones básicas en toda sesión teórico-práctica, que es la capacidad sensitiva (Expresión), la habilidad motriz (memoria muscular) y la lógica cerebral (área matemática). ¡Pero no te espantes! que es tan gradual que te sorprenderás de la capacidad que hay en ti para seguir estos pasos y estar tocando desde la segunda sesión. Si eliges aprender realmente música, te recomiendo las clases individuales, pues tu práctica y la técnica adecuada lo harán de manera muy profesional y divertida.Graduado del Consvatorio Elizabeth II British C, Canada.",
+    "class_desc": "La metodología es que aprendas y hagas música, no hay más vueltas. Sea desde ceros o con tu nivel avanzado, donde perfeccionaremos tus manos y la música que de tu creación y tus gustos saquemos adelante! Sesiones de 1 hr y 30 minutos, donde veremos: -Improvisación y composición en tiempo real con recursos invertidos y divertidos ademas de... (un laaaargo etccc de datos teóricos que te impulsarán con mi apoyo y tu interés)-Sabrás escuhar un pieza sencilla y escribirla incluso a una partitura pura y dura, con la Técnica adecuada y desarrollaremos tu oído relativo hasta el absoluto .-Preparación para exámenes de Ingreso a estudios superiores.-Producción con DAW (software) secuenciadores y controladores MIDI. -Recording, Mixing & Mastering.",
+    "cost_per_hour": "28"
+  }
+]
