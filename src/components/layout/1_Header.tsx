@@ -37,9 +37,10 @@ const Header = (): JSX.Element => {
         { id: "hero", name: "Inicio", route: "/" },
         { id: "how_it_works", name: "¿Cómo funciona?", route: "#how_it_works" },
         { name: "Encuentra tu profe", route: "/teacher-list" },
-        { id: "registro", name: "Regístrate gratis" },
-        { id: "iniciar-sesion", name: "Inicia sesión" },
+        { name: "Regístrate gratis", route: "/register" },
+        { name: "Inicia sesión", route: "/login" },
     ];
+
 
     const renderNavItem = (item: NavItem, isMobile = false) => {
         // Rutas con scroll a secciones en la misma página (home)

@@ -4,6 +4,8 @@ import { useState, useEffect } from "react";
 import type { ChangeEvent } from "react";
 import { Route, Routes } from "react-router-dom";
 
+import Login from "./pages/Login";
+import Register from "./pages/Register";
 import ListingTeachers from "./listingTeachers/ListingTeachers";
 import FormTeachersList from "./listingTeachers/FormTeachers";
 import TeacherDetail from "./pages/TeacherDetail";
@@ -69,6 +71,9 @@ const App: React.FC = () => {
             path="/contact-teacher/:id/:name"
             element={<ContactTeacher allTeachers={allTeachers} />}
           />
+          <Route path="/login" element={<Login />} />
+          <Route path="/register" element={<Register />} />
+
         </Routes>
       </main>
       <Footer />
