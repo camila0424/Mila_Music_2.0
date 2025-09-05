@@ -6,6 +6,10 @@ import { Route, Routes } from "react-router-dom";
 
 import Login from "./pages/Login";
 import Register from "./pages/Register";
+
+import StudentDashboard from "./pages/StudentDashboard";
+
+
 import ListingTeachers from "./listingTeachers/ListingTeachers";
 import FormTeachersList from "./listingTeachers/FormTeachers";
 import TeacherDetail from "./pages/TeacherDetail";
@@ -73,6 +77,7 @@ const App: React.FC = () => {
           />
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
+          <Route path="/student-dashboard" element={<StudentDashboard />} />
 
         </Routes>
       </main>
