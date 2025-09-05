@@ -65,7 +65,7 @@ const ContactTeacher: React.FC<ContactTeacherProps> = ({ allTeachers }) => {
     return (
         <form
             onSubmit={handleSubmit}
-            className="max-w-xl mx-auto bg-white shadow-md rounded-2xl p-6 space-y-6"
+            className="max-w-xl mx-auto bg-white shadow-md rounded-2xl px-6 py-9 space-y-7"
         >
             <h2 className="text-2xl font-bold text-fuchsia-800">Planifica</h2>
             <p className="text-gray-700">Tu primera clase con {teacherToShow.name}</p>

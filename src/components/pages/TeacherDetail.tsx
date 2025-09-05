@@ -21,7 +21,7 @@ const TeacherDetail: React.FC<TeacherDetailProps> = ({ allTeachers }) => {
     }
 
     return (
-        <div className="max-w-4xl mx-auto bg-white shadow-lg rounded-2xl py-20 px-6 space-y-6">
+        <div className="max-w-4xl mx-auto bg-white shadow-lg rounded-2xl py-22 px-6 space-y-8">
             <div className="flex flex-col md:flex-row gap-6 items-center">
                 <img src={teacherToShow.photo} alt={teacherToShow.name} className="w-40 h-40 object-cover rounded-full shadow-md" />
                 <div className="flex-1 space-y-2 text-center md:text-left">
